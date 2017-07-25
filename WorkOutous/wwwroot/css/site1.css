@@ -1,0 +1,88 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    background-color: white;
+}
+
+
+#landing1 {
+    background-image: url(../images/Workoutouslogo7.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    margin: 20px auto;
+    border: 7px #212121 groove;
+}
+
+#text {
+
+    font-size: .75em;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: 4px black solid;
+    background-color: white;
+    color: #1a1919;
+}
+
+#text {
+    font-size: .75em;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: 4px black solid;
+    background-color: white;
+    color: #1a1919;
+}
+
+    #text:hover {
+        font-size: .75em;
+        padding: 0px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        border: 4px black solid;
+        background-color: black;
+        color: white;
+    }
+    #point {
+    text-align: center;
+    width: auto;
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+
+#point:hover {
+    text-align: center;
+    width: auto;
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1em;
+    text-align: center;
+}
+#continue {
+    margin: 0%;
+    background-color: white;
+    border-radius: 0px;
+    font-size: 2em;
+    font-weight: bold;
+    width: auto;
+    width: 100%;
+}
+
+#continue:hover {
+    margin: 0%;
+    border-radius: 0px;
+    font-size: 2em;
+    font-weight: bold;
+    width: auto;
+    width: 100%;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
